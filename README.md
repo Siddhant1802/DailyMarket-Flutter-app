@@ -1,5 +1,10 @@
 DailyMarket Flutter UI
-Welcome to the DailyMarket Flutter UI project! This Flutter application demonstrates a clean and functional user interface for a daily grocery shopping app, ideal for beginners looking to get hands-on experience with Flutter.
+
+
+Welcome to the DailyMarket Flutter UI project!
+
+
+ This Flutter application demonstrates a clean and functional user interface for a daily grocery shopping app, ideal for beginners looking to get hands-on experience with Flutter.
 
 Overview
 The DailyMarket app is designed to help new Flutter developers understand how to build and structure the UI of a real-world grocery shopping app. It’s a great starting point if you're looking to build a shopping app or learn Flutter through practical experience.
