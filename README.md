@@ -1,55 +1,42 @@
-# Groceries Flutter UI
+DailyMarket Flutter UI
+Welcome to the DailyMarket Flutter UI project! This Flutter application demonstrates a clean and functional user interface for a daily grocery shopping app, ideal for beginners looking to get hands-on experience with Flutter.
 
-Welcome to the Groceries Flutter UI project! This is a beginner-friendly Flutter application that demonstrates how to create a user interface for a grocery shopping app.
+Overview
+The DailyMarket app is designed to help new Flutter developers understand how to build and structure the UI of a real-world grocery shopping app. It’s a great starting point if you're looking to build a shopping app or learn Flutter through practical experience.
 
-## About This Project
+App Preview
+Check out the preview of the app:
 
-This project is designed to help beginners learn Flutter by creating a visually appealing grocery app UI. It's a great starting point if you're new to Flutter and want to see how a real-world app interface can be built.
 
-## Design Credit
 
-The design for this app is inspired by [Muhammad Saidur Rahman's work on Uplabs](https://www.uplabs.com/posts/groceries-mobile-mobile-application-design-dark-version).
+Getting Started
+To get started with the DailyMarket app, follow these steps:
 
-## Preview
+Make sure Flutter is installed on your machine. If not, follow the official Flutter installation guide.
 
-Here's a preview of what the app looks like:
+Clone this repository to your local machine.
 
-<img src="docs/grocerisApp.png" alt="Groceries App Preview">
+Open the project in your preferred IDE (Visual Studio Code or Android Studio recommended).
 
-## Getting Started
+Run flutter pub get in the terminal to fetch the project dependencies.
 
-If you're new to Flutter, here are some steps to get you started:
+Launch the app with flutter run on an emulator or connected device.
 
-1. Make sure you have Flutter installed on your machine. If not, follow the [official Flutter installation guide](https://flutter.dev/docs/get-started/install).
+Learning Resources
+If you're new to Flutter, these resources can help you get started:
 
-2. Clone this repository to your local machine.
+Flutter Official Documentation
+Flutter Codelabs
+Flutter YouTube Channel
+APK Download
+You can download the APK to try the app:
 
-3. Open the project in your preferred IDE (we recommend Visual Studio Code or Android Studio).
+Download APK
 
-4. Run `flutter pub get` in the terminal to fetch the project dependencies.
+Contributing
+We welcome contributions! If you have suggestions for improvements or find any issues, feel free to open an issue or submit a pull request.
 
-5. Use `flutter run` to launch the app on an emulator or connected device.
-
-## Learning Resources
-
-If you're just starting with Flutter, here are some helpful resources:
-
-- [Flutter Official Documentation](https://flutter.dev/docs)
-- [Flutter Codelabs](https://flutter.dev/docs/codelabs)
-- [Flutter YouTube Channel](https://www.youtube.com/channel/UCwXdFgeE9KYzlDdR7TG9cMw)
-
-## Download the App
-
-Want to see the app in action? You can download the APK here:
-
-[Download The APK](https://github.com/abdulmominsakib/groceriesAppFlutterUI/releases)
-
-## Contributing
-
-We welcome contributions from developers of all skill levels! If you have ideas for improvements or find any issues, feel free to open an issue or submit a pull request.
-
-## Need Help?
-
-If you're stuck or have any questions, don't hesitate to open an issue in this repository. We're here to help you learn and grow as a Flutter developer!
+Need Assistance?
+If you encounter any difficulties or have questions, please open an issue in the repository. We're happy to assist you in your Flutter learning journey!
 
 Happy coding!
